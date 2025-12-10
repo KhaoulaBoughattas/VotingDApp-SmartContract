@@ -23,20 +23,18 @@ A decentralized voting application (DApp) built on Ethereum, allowing users to v
 ---
 
 ## **Folder Structure**
+
 VotingDApp/
-│
-├─ contracts/ # Solidity smart contract
-│ └─ Voting.sol
-│
-├─ scripts/ # Deployment scripts
-│ └─ deploy.js
-│
-├─ frontend/ # React frontend
-│ └─ App.js
-│
-├─ package.json # Node project configuration
+├─ contracts/        # Solidity smart contract
+│  └─ Voting.sol
+├─ scripts/          # Deployment scripts
+│  └─ deploy.js
+├─ frontend/         # React frontend
+│  └─ App.js
+├─ package.json      # Node project configuration
 ├─ hardhat.config.js # Hardhat configuration
-└─ README.md
+└─ README.md         # Project README
+
 
 ---
 
